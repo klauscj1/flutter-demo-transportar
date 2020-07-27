@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>833212460330-achj5d05k1255l04dmj8a9o08g5s9pf1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.833212460330-achj5d05k1255l04dmj8a9o08g5s9pf1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>833212460330-ia7k1h1v6ne8l35bp38iu0qnhvmkl08n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBGtWCl2ZG_Tlnrb4OiB9fOTsimpRvmzBo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>833212460330</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ec.icreativa.transporteapp</string>
+	<key>PROJECT_ID</key>
+	<string>transportar-d832e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>transportar-d832e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:833212460330:ios:04083387d3bceb7e2d8253</string>
+	<key>DATABASE_URL</key>
+	<string>https://transportar-d832e.firebaseio.com</string>
+</dict>
+</plist>

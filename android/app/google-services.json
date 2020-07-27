@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833212460330",
+    "firebase_url": "https://transportar-d832e.firebaseio.com",
+    "project_id": "transportar-d832e",
+    "storage_bucket": "transportar-d832e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833212460330:android:9f4f852623f0a0012d8253",
+        "android_client_info": {
+          "package_name": "ec.icreativa.transporteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833212460330-ia7k1h1v6ne8l35bp38iu0qnhvmkl08n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ec.icreativa.transporteapp",
+            "certificate_hash": "906ea312cd1463cfd37a64a8801b78e3fd27dda4"
+          }
+        },
+        {
+          "client_id": "833212460330-oseo6m34sk5mnmkjp8e7vlg3utnn3ufe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgd_gdQheYYszuxSpxDqaMZK_AF6CNPCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833212460330-oseo6m34sk5mnmkjp8e7vlg3utnn3ufe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
